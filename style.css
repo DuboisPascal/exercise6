@@ -28,3 +28,13 @@ body{
         #465298 20px
 );
 }
+
+.stripe2{
+    background: repeating-linear-gradient(
+        45deg,
+        red,
+        hotpink 10px,
+        purple 10px,
+        blue 20px
+);
+}
